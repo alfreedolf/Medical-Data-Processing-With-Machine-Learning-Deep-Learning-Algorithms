@@ -4,8 +4,7 @@ My Research Works:
 
 (*)https://www.researchgate.net/publication/343224736_Machine_Learning_Techniques_for_Cerebral_Vasoregulation_in_Elderly_with_Stroke_Detection
 
-(*)https://www.researchgate.net/publication/343224188_Medical_Data_Processing_With_Machine_Learning_Deep_Learning_Algorithm
-
+(*)https://www.researchgate.net/publication/343675923_Medical_Data_Processing_With_Machine_Learning_Deep_Learning_Algorithm
 */
 
 ----------
