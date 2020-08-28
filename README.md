@@ -2,6 +2,8 @@
 /*
 My Research Works:
 
+(*) https://www.researchgate.net/publication/343948679_Covid-19_-SARS-B-cell_Epitope_prediction-using-Artificial_intelligence_AI_Machine_Learning_Algorithm
+
 (*)https://www.researchgate.net/publication/343224736_Machine_Learning_Techniques_for_Cerebral_Vasoregulation_in_Elderly_with_Stroke_Detection
 
 (*)https://www.researchgate.net/publication/343675923_Medical_Data_Processing_With_Machine_Learning_Deep_Learning_Algorithm
