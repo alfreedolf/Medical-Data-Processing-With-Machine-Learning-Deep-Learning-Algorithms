@@ -1,13 +1,12 @@
 # Medical-Data-Processing-With-Machine-Learning-&-Deep-Learning-Algorithms
-/*
-My Research Works:
 
-(*) https://www.researchgate.net/publication/343948679_Covid-19_-SARS-B-cell_Epitope_prediction-using-Artificial_intelligence_AI_Machine_Learning_Algorithm
+Reference research works:
 
-(*)https://www.researchgate.net/publication/343224736_Machine_Learning_Techniques_for_Cerebral_Vasoregulation_in_Elderly_with_Stroke_Detection
+* https://www.researchgate.net/publication/343948679_Covid-19_-SARS-B-cell_Epitope_prediction-using-Artificial_intelligence_AI_Machine_Learning_Algorithm
 
-(*)https://www.researchgate.net/publication/343675923_Medical_Data_Processing_With_Machine_Learning_Deep_Learning_Algorithm
-*/
+* https://www.researchgate.net/publication/343224736_Machine_Learning_Techniques_for_Cerebral_Vasoregulation_in_Elderly_with_Stroke_Detection
+
+* https://www.researchgate.net/publication/343675923_Medical_Data_Processing_With_Machine_Learning_Deep_Learning_Algorithm
 
 ----------
 Artificial intelligence (AI) — the ability of a machine to perform cognitive tasks to achieve a particular goal based on provided data — is revolutionizing and reshaping our health-care systems. The current availability of ever-increasing computational power, highly developed pattern recognition algorithms and advanced image processing software working at very high speeds has led to the emergence of computer-based systems that are trained to perform complex tasks in bioinformatics, medical imaging and medical robotics. Accessibility to ‘big data’ enables the ‘cognitive’ computer to scan billions of bits of unstructured information, extract the relevant information and recognize complex patterns with increasing confidence. Computer-based decision-support systems based on machine learning (ML) have the potential to revolutionize medicine by performing complex tasks that are currently assigned to specialists to improve diagnostic accuracy, increase efficiency of throughputs, improve clinical workflow, decrease human resource costs and improve treatment choices. These characteristics could be especially helpful in the management of prostate cancer, with growing applications in diagnostic imaging, surgical interventions, skills training and assessment, digital pathology and genomics. Medicine must adapt to this changing world, and urologists, oncologists, radiologists and pathologists, as high-volume users of imaging and pathology, need to understand this burgeoning science and acknowledge that the development of highly accurate AI-based decision-support applications of ML will require collaboration between data scientists, computer researchers and engineers.
